@@ -15,7 +15,3 @@ naya line
 passwd
 
 nayka
---------------------------
-and this line is added by Punu
-----------------------
-
