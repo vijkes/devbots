@@ -16,6 +16,6 @@ passwd
 
 nayka
 
-
+this file contains some bug
 
 
