@@ -15,7 +15,7 @@ naya line
 passwd
 
 nayka
-
-this file contains some bug
-
+--------------------------
+and this line is added by Punu
+----------------------
 
