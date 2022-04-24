@@ -1,0 +1,17 @@
+{
+    "AWSTemplateFormatVersion": "2010-09-09",
+    "Description": "Running a EC2 instance through CloudFormation",
+    "Resources": {
+        "MyEC2Instance": {
+            "Type": "AWS::EC2::Instance",
+            "Properties": {
+                "ImageId": "ami-0c6a6b0e75b2b6ce7",
+                "InstanceType": "t2.small",
+		"KeyName" : "keydevops",
+		"SecurityGroupIds":[
+            	"sg-05c869fcb224590da"
+         	 ]
+            }
+        }
+    }
+}
